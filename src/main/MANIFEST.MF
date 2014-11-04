@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Apache Ant
+Built-By: nhuang
+Build-Jdk: 1.7.0_67
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: org.myprofiler4j.java.agent.Main
+Agent-Class: org.myprofiler4j.java.agent.Main
+Main-Class: org.myprofiler4j.java.client.MyProfilerClient
